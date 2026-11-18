@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/michaelbeatman/ARCHON-OS">
-  <img src="./archon_header.jpg" alt="Archon OS — Agentic Operating System" width="1024" />
+  <img src="./archon_header.png" alt="Archon OS — Agentic Operating System" width="1024" />
 </a>
 
 # Archon OS — Self-Hosted Multi-Agent Operating System
